@@ -1,4 +1,3 @@
-[![MasterHead](https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?w=1380&t=st=1664978373~exp=1664978973~hmac=64cf91ebdca0ae7fd717fe2bb04f263788ad5dcce6ab25089ed0a1c8a8a1f2d1)](https://github.com/Atevaz)
 <h1 align="center">Hi 👋, I'm Amr Ramadan</h1>
 <h3 align="center">A passionate Mobile App developer from Egypt</h3>
 <img align = "right" alt ="coding" width ="400" src ="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
